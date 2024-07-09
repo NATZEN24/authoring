@@ -12,4 +12,4 @@
 
 ### Link to an image folder
 [Images folder](./img)
-![adding img from the images](.img/detective.jpg)
+![adding img from the images](./img/detective.jpg)
