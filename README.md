@@ -3,7 +3,7 @@
 ### Task list:
 - [] External Link
 - [] Internal Link
-- [x] Images
+- [] Images
 - [] Emojis
 - [] Tables
   
@@ -12,10 +12,9 @@
 
 ### Link to an image folder
 [Images folder](./img)
-<<<<<<< HEAD
-![adding img from the images](./img/detective.jpg)
-=======
 
 ### Adding img from images
-[adding img from the images](.img/detective.jpg)
->>>>>>> ef536e2d833c1cdf4f1bd403b452680768d5b6f1
+![adding img from the images](./img/detective.jpg)
+
+
+
